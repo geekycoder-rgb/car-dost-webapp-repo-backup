@@ -87,3 +87,4 @@ credentials.json
 .env.*
 *.env
 frontend/node_modules/.cache/default-development/0.pack
+app-export-20260720.tar.gz
